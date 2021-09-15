@@ -19,7 +19,7 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: AA Uptime
-  introTitle: "**M17 Uptime** is powered entirely by [Upptime](https://github.com/upptime/upptime) and GitHub."
+  introTitle: "**AA Uptime** is powered entirely by [Upptime](https://github.com/upptime/upptime) and GitHub."
   introMessage: Statuses use **real-time** data, deployed by [sorensd](https://github.com/sorensd).
   navbar:
     - title: Status

@@ -16,8 +16,8 @@ sites:
     url: https://adamsavenue.com/
 
 status-website:
-  # baseUrl: /uptime
-  cname: status.adamsavenue.net
+  baseUrl: /uptime
+  # cname: status.adamsavenue.net
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: AA Uptime
   introTitle: "**AA Uptime** is powered entirely by [Upptime](https://github.com/upptime/upptime) and GitHub."

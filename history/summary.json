@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/normalheights.org",
     "slug": "normal-heights",
     "status": "up",
-    "uptime": "97.19%",
-    "uptimeDay": "97.19%",
-    "uptimeWeek": "97.19%",
-    "uptimeMonth": "97.19%",
-    "uptimeYear": "97.19%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2018,
     "timeDay": 2018,
     "timeWeek": 2018,
     "timeMonth": 2018,
     "timeYear": 2018,
-    "dailyMinutesDown": {
-      "2021-09-15": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MonAmore Boutique",

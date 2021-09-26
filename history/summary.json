@@ -94,9 +94,9 @@
     "url": "https://adamsavenue.com/",
     "icon": "https://favicons.githubusercontent.com/adamsavenue.com",
     "slug": "adams-avenue-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,6 +105,8 @@
     "timeWeek": 1959,
     "timeMonth": 2056,
     "timeYear": 2056,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-26": 0
+    }
   }
 ]

@@ -22,9 +22,9 @@
     "url": "https://monamoreboutique.com/",
     "icon": "https://favicons.githubusercontent.com/monamoreboutique.com",
     "slug": "mon-amore-boutique",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1658,
     "timeMonth": 1580,
     "timeYear": 1580,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-30": 0
+    }
   },
   {
     "name": "Mis Botanitas",
@@ -76,9 +78,9 @@
     "url": "https://adamsavenue.net/",
     "icon": "https://favicons.githubusercontent.com/adamsavenue.net",
     "slug": "adams-avenue-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +89,9 @@
     "timeWeek": 3109,
     "timeMonth": 2115,
     "timeYear": 2115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-30": 0
+    }
   },
   {
     "name": "AdamsAvenue.com",

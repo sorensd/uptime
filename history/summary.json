@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/monamoreboutique.com",
     "slug": "mon-amore-boutique",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.49%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.35%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
     "time": 1557,
     "timeDay": 1979,
     "timeWeek": 1515,
@@ -98,17 +98,19 @@
     "url": "https://adamsavenue.com/",
     "icon": "https://favicons.githubusercontent.com/adamsavenue.com",
     "slug": "adams-avenue-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2018,
-    "timeDay": 1585,
-    "timeWeek": 1962,
-    "timeMonth": 2018,
-    "timeYear": 2018,
-    "dailyMinutesDown": {}
+    "time": 1992,
+    "timeDay": 1517,
+    "timeWeek": 1911,
+    "timeMonth": 1992,
+    "timeYear": 1992,
+    "dailyMinutesDown": {
+      "2021-10-02": 0
+    }
   }
 ]

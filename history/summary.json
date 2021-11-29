@@ -4,19 +4,19 @@
     "url": "https://normalheights.org/",
     "icon": "https://favicons.githubusercontent.com/normalheights.org",
     "slug": "normal-heights",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 2137,
-    "timeDay": 2388,
-    "timeWeek": 3144,
-    "timeMonth": 2500,
-    "timeYear": 2137,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 2135,
+    "timeDay": 2235,
+    "timeWeek": 3009,
+    "timeMonth": 2483,
+    "timeYear": 2135,
     "dailyMinutesDown": {
-      "2021-11-29": 2
+      "2021-11-29": 20
     }
   },
   {

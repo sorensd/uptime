@@ -44,10 +44,10 @@
     "url": "https://misbotanitas.com/",
     "icon": "https://favicons.githubusercontent.com/misbotanitas.com",
     "slug": "mis-botanitas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2962,
@@ -55,7 +55,9 @@
     "timeWeek": 4181,
     "timeMonth": 3726,
     "timeYear": 2962,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-13": 2
+    }
   },
   {
     "name": "Mariposa Icecream",

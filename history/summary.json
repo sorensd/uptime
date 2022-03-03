@@ -13,7 +13,7 @@
     "time": 2833,
     "timeDay": 3836,
     "timeWeek": 4380,
-    "timeMonth": 3627,
+    "timeMonth": 3662,
     "timeYear": 2833,
     "dailyMinutesDown": {
       "2021-11-29": 20
@@ -33,7 +33,7 @@
     "time": 3258,
     "timeDay": 3907,
     "timeWeek": 4105,
-    "timeMonth": 4323,
+    "timeMonth": 4341,
     "timeYear": 3258,
     "dailyMinutesDown": {
       "2021-09-30": 152
@@ -53,7 +53,7 @@
     "time": 3055,
     "timeDay": 5081,
     "timeWeek": 4286,
-    "timeMonth": 3920,
+    "timeMonth": 3938,
     "timeYear": 3055,
     "dailyMinutesDown": {}
   },
@@ -71,7 +71,7 @@
     "time": 315,
     "timeDay": 487,
     "timeWeek": 425,
-    "timeMonth": 329,
+    "timeMonth": 330,
     "timeYear": 315,
     "dailyMinutesDown": {}
   },
@@ -80,19 +80,19 @@
     "url": "https://adamsavenue.net/",
     "icon": "https://favicons.githubusercontent.com/adamsavenue.net",
     "slug": "adams-avenue-net",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 3466,
-    "timeDay": 2110,
-    "timeWeek": 3286,
-    "timeMonth": 3614,
-    "timeYear": 3466,
+    "time": 3471,
+    "timeDay": 3201,
+    "timeWeek": 3412,
+    "timeMonth": 3636,
+    "timeYear": 3471,
     "dailyMinutesDown": {
-      "2022-03-03": 2,
+      "2022-03-03": 12,
       "2021-09-30": 45
     }
   },
